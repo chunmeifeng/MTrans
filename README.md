@@ -42,7 +42,7 @@ Citation
 ```
 @inproceedings{feng2021MINet,
   title={UTransMRI: Unified Transformer for Accelerated Multi-modal MR Imaging},
-  author={Feng, Chun-Mei and Yan, Yunlu and Fu, Huazhu and Xu, Yong},
+  author={Feng, Chun-Mei and Yan, Yunlu and Fu, Huazhu and Xu, Yong and Shao, Ling},
   booktitle={arxiv},
   year={2021}
 }
