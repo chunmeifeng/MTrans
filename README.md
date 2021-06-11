@@ -1,5 +1,5 @@
 
-# MTrans: Multi-modal Transformers forAccelerated MR Imaging
+# MTrans: Multi-modal Transformers for Accelerated MR Imaging
 
 ## Dependencies
 * numpy==1.18.5
@@ -41,7 +41,7 @@ Citation
 
 ```
 @inproceedings{feng2021MINet,
-  title={MTrans: Multi-modal Transformers forAccelerated MR Imaging},
+  title={MTrans: Multi-modal Transformers for Accelerated MR Imaging},
   author={Feng, Chun-Mei and Yan, Yunlu and Fu, Huazhu and Xu, Yong and Shao, Ling},
   booktitle={arxiv},
   year={2021}
