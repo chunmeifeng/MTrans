@@ -1,5 +1,5 @@
 
-# UTransMRI: Unified Transformer for Accelerated Multi-modal MR Imaging
+# MTrans: Multi-modal Transformers forAccelerated MR Imaging
 
 ## Dependencies
 * numpy==1.18.5
@@ -41,7 +41,7 @@ Citation
 
 ```
 @inproceedings{feng2021MINet,
-  title={UTransMRI: Unified Transformer for Accelerated Multi-modal MR Imaging},
+  title={MTrans: Multi-modal Transformers forAccelerated MR Imaging},
   author={Feng, Chun-Mei and Yan, Yunlu and Fu, Huazhu and Xu, Yong and Shao, Ling},
   booktitle={arxiv},
   year={2021}
