@@ -1,5 +1,5 @@
 
-# MTrans: Multi-modal Transformers for Accelerated MR Imaging
+# Accelerated Multi-Modal MR Imaging with Transformers
 
 ## Dependencies
 * numpy==1.18.5
