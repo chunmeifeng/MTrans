@@ -40,10 +40,13 @@ Citation
 
 
 ```
-@inproceedings{feng2021MINet,
-  title={MTrans: Multi-modal Transformers for Accelerated MR Imaging},
-  author={Feng, Chun-Mei and Yan, Yunlu and Fu, Huazhu and Xu, Yong and Shao, Ling},
-  booktitle={arxiv},
-  year={2021}
+@misc{feng2021accelerated,
+      title={Accelerated Multi-Modal MR Imaging with Transformers}, 
+      author={Chun-Mei Feng and Yunlu Yan and Geng Chen and Huazhu Fu and Yong Xu and Ling Shao},
+      year={2021},
+      eprint={2106.14248},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
 }
+
 ```
