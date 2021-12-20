@@ -11,7 +11,8 @@
 * h5py==2.10.0
 * PyYAML==5.4
 
-
+###  :fire: NEWS :fire:
+* We will upload the pair-data csv.file as soon as possible.
 
 **multi gpu train**
 ```bash
