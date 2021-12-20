@@ -12,7 +12,7 @@
 * PyYAML==5.4
 
 ###  :fire: NEWS :fire:
-* We will upload the pair-data csv.file as soon as possible.
+* We will upload the csv.file of the paired data as soon as possible...
 
 **multi gpu train**
 ```bash
