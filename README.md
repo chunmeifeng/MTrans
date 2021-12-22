@@ -12,8 +12,7 @@
 * PyYAML==5.4
 
 ###  :fire: NEWS :fire:
-* We will upload the csv.file of the paired data as soon as possible...
-
+* We have uploaded the csv.files of the paired data.
 **multi gpu train**
 ```bash
 python -m torch.distributed.launch --nproc_per_node=8   train.py --experiment sr_multi_cross
